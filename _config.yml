@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Ben's Updates
 paginate:       5
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        ""
+url:            "https://benash.github.io"
 
 # Assets
 sass:
@@ -17,15 +17,15 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Benjamin Nash
+  url:          https://benash.github.io
+  email:        benash@umich.edu
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://github.com/benash
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-paginate
