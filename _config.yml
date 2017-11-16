@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Ben's Updates
+title:          Ben's Frequently Asked Questions
 paginate:       1000
 baseurl:        ""
 url:            "https://benash.github.io"
